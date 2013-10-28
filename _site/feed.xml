@@ -7,8 +7,8 @@
     <atom:link href="http://ies.pw/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>First Blog</title>
-        <description>&lt;h1&gt;First Blog&lt;/h1&gt;
+        <title>0001:又开始写博客了</title>
+        <description>&lt;p&gt;看到&lt;a href=&quot;http://ruby-china.org/rei&quot;&gt;Rei&lt;/a&gt;的博客，很是喜欢，于是乎山寨一个。就是你现在看到的这个，呼啦啦，我又写博客了...&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Oct 2013 00:00:00 +0800</pubDate>
         <link>http://ies.pw/2013/10/28/first-blog/</link>
