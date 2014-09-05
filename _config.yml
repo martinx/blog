@@ -9,8 +9,9 @@ google_analytics_id: UA-11897577-2
 links:
   - name:         Home
     url:          /
-  - name:         About
-    url:          /about
+    
+  # - name:         About
+    # url:          /about
   - name:         Email
     url:          mailto:martin.xus@gmail.com
     external:     true
