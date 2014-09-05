@@ -1,6 +1,6 @@
 title:            Martin's Note
 description:      
-url:              http://ies.pw
+url:              http://blog.yuesmart.com
 baseurl:          
 signoff:          Martin Xu
 disqus_shortname: martin-note
@@ -10,13 +10,15 @@ links:
   - name:         Home
     url:          /
     
-  # - name:         About
-    # url:          /about
+  - name:         About
+    url:          /about
   - name:         Email
     url:          mailto:martin.xus@gmail.com
     external:     true
 
-pygments:         true
+highlighter:         pygments
+# highlighter:         rouge
+# 
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
